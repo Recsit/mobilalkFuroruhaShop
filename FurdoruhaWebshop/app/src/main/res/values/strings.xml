@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">FurdoruhaShop</string>
+    <string name="password">Jelszó</string>
+    <string name="username">Felhasználónév</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="email">E-mail cím</string>
+    <string name="passwordCon">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone">Telefonszám</string>
+    <string name="guest">Vendég</string>
+    <string name="name">Név</string>
+    <string name="details">Leírás</string>
+    <string name="buy">Megvásárol</string>
+    <string name="image">Kép</string>
+    <string name="price">Ár</string>
+    <string name="search">Keresés</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="delete">Törlés</string>
+    <string name="newSwimsuit">Új felvesz</string>
+    <string name="newSwimsuitText">Új fürdőruha</string>
+    <string name="sortPrice">Ár:</string>
+    <string name="limit">Határ:</string>
+    <string name="filter">Szűrés</string>
+
+    <string-array name="list_name">
+        <item>Sárga fürdőruha</item>
+        <item>Rózsaszín bikini</item>
+        <item>Kék fürdőruha</item>
+        <item>Gyerek fürdőruha</item>
+        <item>Virág mintás fürdőruha</item>
+        <item>Fekete fürdőruha</item>
+    </string-array>
+
+    <string-array name="list_details">
+        <item>Elegáns, szép, nap sárgán tündöklő.</item>
+        <item>Gyönyörű, egy csoda az év legszebb kollekciójából.</item>
+        <item>Egyszerű mégis nagyszerű. Egy szép kék fűrdőruha.</item>
+        <item>Gyerekek számára szép egyszerű fürdőruha.</item>
+        <item>Egyik legkiválóbb mintás egybefürdőruhánk.</item>
+        <item>Legdrágább ruhánk egyike. Elegáns és szép.</item>
+    </string-array>
+
+    <integer-array name="list_price">
+        <item>5000</item>
+        <item>10000</item>
+        <item>7000</item>
+        <item>800</item>
+        <item>4200</item>
+        <item>13000</item>
+    </integer-array>
+
+    <string-array name="list_image">
+        <item>@drawable/sarga</item>
+        <item>@drawable/rozsaszin</item>
+        <item>@drawable/kek</item>
+        <item>@drawable/gyerek</item>
+        <item>@drawable/mintas</item>
+        <item>@drawable/fekete</item>
+    </string-array>
+
+    <string-array name="sort_price">
+        <item>Nincs</item>
+        <item>1000 Ft</item>
+        <item>2000 Ft</item>
+        <item>5000 Ft</item>
+        <item>10 000 Ft</item>
+        <item>20 000 Ft</item>
+    </string-array>
+
+    <string-array name="limit_item">
+        <item>Nincs</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>25</item>
+    </string-array>
+</resources>

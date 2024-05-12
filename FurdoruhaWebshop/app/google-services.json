@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119802300942",
+    "project_id": "fudoruhashop",
+    "storage_bucket": "fudoruhashop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119802300942:android:9ffb962eae8671ab9d8a5f",
+        "android_client_info": {
+          "package_name": "com.example.furdoruhawebshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJKvgIOyVDTxB1kzW904jl1k0A-HUpZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
